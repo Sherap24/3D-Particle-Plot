@@ -35,7 +35,7 @@ The program expects a tab-delimited dataset (`Data file.txt`) with the following
 | `y`         | Y-coordinate (float)        |
 | `z`         | Z-coordinate (float)        |
 | `tb`        | Timestamp (optional)        |
-| `q`         | Quality metric (optional)   |
+| `q`         | Charge (optional)   |
 
 Ensure the file is formatted correctly to avoid errors. **You will need to provide your own dataset. This code currently works for `Data file.txt` located in the same directory as the script.**
 
