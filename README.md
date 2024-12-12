@@ -58,18 +58,6 @@ Ensure the file is formatted correctly to avoid errors. **You will need to provi
 
 4. Use the `Next` and `Previous` buttons to navigate through the events.
 
-## Example Output
-
-### 3D Scatter Plot
-The program generates an interactive 3D scatter plot for a specific event.
-
-![3D Scatter Plot Example](path/to/3d_plot_example.png)
-
-### 2D Plots
-The Y vs. X and Y and X vs. Z scatter plots for the same event.
-
-![2D Plot Example](path/to/2d_plot_example.png)
-
 ## Project Structure
 
 ```
